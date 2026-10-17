@@ -468,7 +468,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Outstand-so/outstand-agent.git",
-        "sha": "272602fa9bc28924c4c1e3c342d9eaaa56e917c2"
+        "sha": "8272e1891ad81b33faa3167f2b0669eee7bb5ca4"
       },
       "homepage": "https://www.outstand.so",
       "keywords": ["outstand", "outstand.so", "outstand mcp", "outstand social", "outstand api"],
