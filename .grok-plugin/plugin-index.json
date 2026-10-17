@@ -782,6 +782,24 @@
         ]
       }
     },
+    "outstand": {
+      "sha": "272602fa9bc28924c4c1e3c342d9eaaa56e917c2",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "outstand",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "outstand",
+            "description": "Work with Outstand through the Outstand MCP server: publish, schedule, edit, repost and delete posts on X, LinkedIn, In…"
+          }
+        ]
+      }
+    },
     "pi-security": {
       "sha": "dcf8dc9fcc2b54866866d2d07b1e85a3bda05d85",
       "version": "0.2.1",
